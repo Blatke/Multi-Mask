@@ -16,6 +16,8 @@ To manipulate the display of the normal map by importing RGB textures on which R
 The main map that can be an RGBA image on which the alpha channel controls the cutout value.
 #### Tint Color
 The color that will globally blend with the Albedo as well as the color masks.
+
+If there's a non-zero value in Albedo's alpha channel and the Tint Color's alpha is less than 1.0, there will be a cutout effect that culls the transparent or semi-transparent parts on the Albedo texture.
 #### OMS
 It demands for an RGB image to use Red, Green and Blue channels to respectively control the performance of Occlusion, Metallic and Smoothness.
 #### Occlusion
