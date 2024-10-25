@@ -1,7 +1,7 @@
 # Multi-Masks Shader
 A Unity shader that supports for multiple color masks and normal masks.
 
-## Features
+## Main Features
 1. Color Masks
 
 To adjust the colors of the parts of the albedo texture by importing RGB textures on which Red, Green, Blue, Cyan, Purple, Yellow and White parts can be recognized as the areas to affect the colors of the corresponding areas on the albedo texture. Two color masks are supported to blend or replace the colors of the albedo with the custom ones.
