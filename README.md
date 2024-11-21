@@ -1,5 +1,5 @@
 # Multi-Masks Shader
-A Unity shader that supports for multiple color masks and normal masks.
+A Unity shader that supports for multiple masks controlling colors as well as bumps.
 
 ## How to Get It
 1. Download the .shader file(s) for the latest version on the **[Release](https://github.com/Blatke/Multi-Masks.shader/releases)** Page, and drag and drop it into the project window of Unity.
