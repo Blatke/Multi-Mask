@@ -5,7 +5,7 @@ A Unity shader that supports for multiple masks controlling colors as well as bu
 1. Download the .shader file(s) for the latest version on the **[Release](https://github.com/Blatke/Multi-Masks.shader/releases)** Page, and drag and drop it into the project window of Unity.
 2. Go to a material and see its attributes in the inspector window, in the Shader option, assign it to **Blake/Multi-Masks** to change its shader to this one. Or you can just drag and drop it to the material.
 3. Put the material onto any object in the hierarchical window and see the effect in the scene view.
-4. Please note that there are at least 3 texture images in the **[Texture](https://github.com/Blatke/Multi-Masks.shader/tree/main/Textures)** folder of this repository. Download them and put them respectively into the corresponding slots of the material onto which this shader is used.
+4. Please note that there are at least 3 texture images in the **[Texture](https://github.com/Blatke/Multi-Masks.shader/tree/main/Textures)** folder of this repository. Download them and put them respectively into the corresponding slots of the material onto which this shader is used. The diffuse textures were sourced from [Hanmen's ASE Shader](https://github.com/Hanmen-lab/HS2-AI-ASE-Shaders) and Honey Select 2 built-in map.
 
 ## Main Features
 1. Color Masks
