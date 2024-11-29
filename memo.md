@@ -2,7 +2,7 @@
 ## Multiple versions for masks
 To develop different versions of which each has less masks than the orginal shader in order to save rendering resources and to be adopted by a specific demand.
 
-The nominating could be taken in format as:
+The naming method could be taken in format as:
 
 _Multi-Masks CxNxF version_
 
