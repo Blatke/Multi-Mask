@@ -1,4 +1,4 @@
-# Plan on Future Updates
+# Plan for Future Updates
 ## Multiple versions for masks
 To develop different versions of which each has less masks than the orginal shader in order to save rendering resources and to be adopted by a specific demand.
 
