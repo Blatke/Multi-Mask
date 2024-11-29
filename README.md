@@ -10,11 +10,15 @@ A Unity shader that supports for multiple masks controlling colors as well as bu
 ## Main Features
 1. Color Masks
 
-To adjust the colors of the parts of the albedo texture by importing RGB textures on which Red, Green, Blue, Cyan, Purple, Yellow and White parts can be recognized as the areas to affect the colors of the corresponding areas on the albedo texture. Two color masks are supported to blend or replace the colors of the albedo with the custom ones.
+To adjust the colors of the parts of the albedo texture by importing RGB textures on which Red, Green, Blue, Cyan, Purple, Yellow and White parts can be recognized as the areas to affect the colors of the corresponding areas on the albedo texture that are covered by these parts. Two color masks are supported to blend or replace the colors of the albedo with the custom ones.
 
 2. Normal Masks
 
 To manipulate the display of the normal map by importing RGB textures on which Red, Green, Blue, Cyan, Purple, Yellow and White parts indicate which parts on the normal map shows or hides the bump effect, and to what extent the bump it shows. 
+
+3. Wetness and Fluid
+
+To simulate wetness and fluid on the surface of an object. The fluid can be manipulated by a designated mask. 
 
 ## Properties in the Shader
 ### 1. Main
