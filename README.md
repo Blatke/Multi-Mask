@@ -19,3 +19,9 @@ To manipulate the display of the normal map by importing RGB textures on which R
 3. Wetness and Fluid
 
 To simulate wetness and fluid on the surface of an object. The fluid can be manipulated by a designated mask. 
+
+## How to Use It
+I hereby write several tutorials on this shader with going through creating some materials for a certain objects.
+
+> [!NOTE]
+> Please note that due to the updates on this shader, some property names might have adjustments that make them different from what they appeared in the tutorials, but the main features will not be significantly changed. 
