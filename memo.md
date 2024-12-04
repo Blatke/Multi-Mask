@@ -4,7 +4,7 @@ To sample at least 26 instead of 7 colors for indicating areas on a mask texture
 
 That makes it possible for reducing at least one normal mask.
 
-![image](https://github.com/user-attachments/assets/c6a7d767-23cb-48a4-a149-a9514cf9e2c3)
+![image](https://github.com/user-attachments/assets/0881d02c-b169-42a5-acdc-80dc27b26820)
 
 With considering a default texture in a mask slot, the black color(0,0,0) is not taken to sample. 
 
