@@ -6,7 +6,9 @@ That makes it possible for reducing at least one normal mask.
 
 ![image](https://github.com/user-attachments/assets/c6a7d767-23cb-48a4-a149-a9514cf9e2c3)
 
-With considering a default texture in a mask slot, the black color(0,0,0) is not taken to sample.
+With considering a default texture in a mask slot, the black color(0,0,0) is not taken to sample. 
+
+The specific color sampling threshold will fluctuate within a range of 0.05 up and down.
 
 
 ## Multiple versions for masks
