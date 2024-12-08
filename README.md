@@ -21,7 +21,7 @@ To manipulate the display of the normal map by importing RGB textures on which R
 To simulate wetness and fluid on the surface of an object. The fluid can be manipulated by a designated mask. 
 
 ## How to Use It
-I hereby write several tutorials on this shader with going through creating some materials for a certain objects:
+I hereby wrote several tutorials on this shader with going through creating some materials for a certain objects:
 
 **[Tutorials in English](https://github.com/Blatke/Multi-Masks.shader/blob/main/Tutorials/EN/0.%20List%20of%20Contents.md)**
 
